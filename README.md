@@ -25,7 +25,7 @@ Each state represents a traffic light condition (Red, Yellow, Green), and the co
 The design was simulated using Vivado Behavioral Simulation.  
 The waveform output verifies correct state transitions and signal timing.
 
-*(You can add waveform screenshot here later)*
+https://github.com/saipravalikavarma/FPGA_Traffic-controller/blob/main/WhatsApp%20Image%202026-02-18%20at%209.12.12%20PM.jpeg
 
 ## 🚀 How to Run the Project
 
